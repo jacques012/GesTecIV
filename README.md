@@ -20,9 +20,9 @@ Esse projeto é uma parceria da Faculdade de Tecnologia de São José dos Campos
 
 Atualmente, com o avanço da tecnologia, a necessidade de respostas rápidas, alterações a todo momento e requisitos em constante evolução, fez com que as metodologias ágeis ganhem espaço no desenvolvimento dos projetos, pois, as abordagens tradicionais não atendem mais as atuais necessidades. Para essa parceria, foi escolhida a metodologia Scrum que tem foco no gerenciamento da equipe, organização de processos, execução de tarefas e etapas.
 
-Dessa forma, a metodologia Scrum será usada para superar os desafios enfrentados pela empresa que incluem dificuldades em XXXXXX. Dessa maneira, os alunos do Curso Superior Tecnólogo em Gestão da Produção Industrial tiveram a oportunidade de utilizar os conceitos aprendidos na graduação para implementar sistemas de melhoria para enfrentar os desafios de gestão propostos.
+Dessa forma, a metodologia Scrum será usada para superar os desafios enfrentados pela empresa que incluem dificuldades em XXXXXX. Dessa maneira, os alunos do Curso Superior Tecnólogo em Gestão da Produção Industrial tiveram a oportunidade de utilizar os conceitos aprendidos na graduação para implementar sistemas de melhoria para enfrentar os desafios propostos.
 
-Assim sendo, foi realizada uma visita técnica ao CCM – ITA pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando a gestão de estoque e inventário. Portanto, o objetivo desse projeto é a otimização do estoque, desde seus aspectos físicos, como também, a otimização do sistema.
+Assim sendo, foi realizada uma visita técnica a empresa XXXX pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando xxxxxxx. Portanto, o objetivo desse projeto é xxxxxxxxxxx.
 
 
 
