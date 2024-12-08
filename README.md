@@ -31,10 +31,10 @@ Assim sendo, foi realizada uma visita técnica a empresa XXXX pela equipe Gestec
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 26/08/2024 | previsto|  | 
-|01 | ///2024 | previsão | [Ver Relatório](link) | 
-|02|  ///2024| previsão |[Ver Relatório](link) | 
-|03| ///2024 | previsão |[Ver Relatório](link) | 
-|Feira de Soluções| /12/2024 |previsão |[Ver Relatório](link) | 
+|01| 30/09/2024 | previsão | [Ver Relatório](link) | 
+|02| 20/10/2024| previsão |[Ver Relatório](link) | 
+|03| 30/11/2024 | previsão |[Ver Relatório](link) | 
+|Feira de Soluções| 12/12/2024 |previsão |[Ver Relatório](link) | 
 
 # Micro Certificações
 Futuramente
@@ -62,7 +62,7 @@ Freudenberg.
 
 ## Sprint 1
 Realizar análise do desafio proposto por meio do método A3, diagrama de
-Ishikawa e outros conceitos aprendidos – Sprint 1;
+ Ishikawa e outros conceitos aprendidos – Sprint 1;
 Desenvolver um Sistema Computacional Web – Sprint 1; 
 
 Video Apresentação https://youtu.be/U8w5CKhqsto
@@ -74,7 +74,8 @@ Sugerir soluções para descarte de resíduos – Sprint 2;.
 Video Apresentação https://youtu.be/mNhsTkOWWNk
 
 ## Sprint 3
-  >Descrição.
+Entregar guia de uso do Sistema Computacional – Sprint 3;
+Suportar a implementação do Sistema Computacional no cliente – Sprint 3.
 
 Video Apresentação https://youtu.be/tr5IV0qBNCk
 
@@ -89,9 +90,12 @@ Video Apresentação https://youtu.be/PBs9lZlIlto
 
 |Sprint|MVP|
 |-|-|
-|Sprint 1| descrição |
-|Sprint 2| descrição |
-|Sprint 3| descrição |
+|Sprint 1| realizar análise do desafio proposto e desenvolver um sistema
+computacional web.
+|Sprint 2| Sprint 2: propor melhorias para aproveitamento da matéria-prima e sugerir soluções
+para descarte de resíduos
+|Sprint 3| entregar guia de uso do sistema operacional e suportar a implementação
+do sistema computacional no cliente.
 
 ### Tecnologias Específicas/Apoio 
 Até o momento.
