@@ -30,11 +30,11 @@ Assim sendo, foi realizada uma visita técnica a empresa XXXX pela equipe Gestec
 
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 26/08/2024 | previsto|  | 
-|01| 30/09/2024 | previsão | [Ver Relatório](link) | 
-|02| 20/10/2024| previsão |[Ver Relatório](link) | 
-|03| 30/11/2024 | previsão |[Ver Relatório](link) | 
-|Feira de Soluções| 12/12/2024 |previsão |[Ver Relatório](link) | 
+|Kick Off | 26/08/2024 | previsto| 
+|01| 30/09/2024 | previsão | 
+|02| 20/10/2024| previsão |
+|03| 30/11/2024 | previsão |
+|Feira de Soluções| 12/12/2024 |previsão |
 
 # Micro Certificações
 Futuramente
@@ -109,7 +109,7 @@ Até o momento.
 ## Cronograma 
 Ao clicar você será redirecionado a matriz de responsabilidade detalhada desse projeto, lá é possivel encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### • Matriz de responsabilidade : [clique aqui](link)
+#### • Matriz de responsabilidade : [clique aqui](https://fatecspgov-my.sharepoint.com/:x:/r/personal/mariana_martins8_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/tt.xlsx?d=wf9047edba57a4643b7ceb541384bca48&csf=1&web=1&e=1IBTbe)
 
 
 
