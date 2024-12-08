@@ -50,29 +50,37 @@ Futuramente
 
 
 # Objetivo do Projeto
-Descrição.
+O objetivo geral deste trabalho é o aproveitamento de matéria-prima durante o
+processo de corte para desenvolvimento dos produtos. Desse modo, a equipe optou por
+explorar soluções na otimização do corte plano da matéria-prima, com um sistema
+computacional web desenvolvido em HTML, CSS e JavaScript, que como objetivo trará o
+melhor plano de corte da matéria-prima e facilidade aos colaboradores do Grupo
+Freudenberg.
 
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrição. 
+Realizar análise do desafio proposto por meio do método A3, diagrama de
+Ishikawa e outros conceitos aprendidos – Sprint 1;
+Desenvolver um Sistema Computacional Web – Sprint 1; 
 
-Video Apresentação [clique aqui](link)
+Video Apresentação https://youtu.be/U8w5CKhqsto
 
 ## Sprint 2
->Descrição.
+Propor melhorias para aproveitamento da matéria-prima – Sprint 2;
+Sugerir soluções para descarte de resíduos – Sprint 2;.
 
-Video Apresentação [clique aqui](link)
+Video Apresentação https://youtu.be/mNhsTkOWWNk
 
 ## Sprint 3
   >Descrição.
 
-Video Apresentação [clique aqui](link)
+Video Apresentação https://youtu.be/tr5IV0qBNCk
 
 ## Apresentação Final
 
-Video Apresentação [clique aqui](link)
+Video Apresentação https://youtu.be/PBs9lZlIlto
 
 
 ## Tecnologias Utilizadas
