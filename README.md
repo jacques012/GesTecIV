@@ -6,12 +6,10 @@
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -28,20 +26,14 @@ Assim sendo, foi realizada uma visita técnica a empresa XXXX pela equipe Gestec
 
 
 
-Sprints | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 26/08/2024 | previsto| 
-|01| 30/09/2024 | previsão | 
-|02| 20/10/2024| previsão |
-|03| 30/11/2024 | previsão |
-|Feira de Soluções| 12/12/2024 |previsão |
+Sprints | Previsão | Status|
+|------|--------|------|
+|Kick Off | 26/08/2024 | concluido| 
+|01| 30/09/2024 | concluido| 
+|02| 20/10/2024| concluido|
+|03| 30/11/2024 | concluido |
+|Feira de Soluções| 12/12/2024 |concluido |
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 # Equipe
 
@@ -85,17 +77,14 @@ Video Apresentação https://youtu.be/PBs9lZlIlto
 
 
 ## Tecnologias Utilizadas
-### Produto 
+### ZIP https://drive.google.com/file/d/1X_hhZUqibbwxz8n1_c5ZTyhPdkgdkFwL/view?usp=drive_web
 
 
 |Sprint|MVP|
 |-|-|
-|Sprint 1| realizar análise do desafio proposto e desenvolver um sistema
-computacional web.
-|Sprint 2| Sprint 2: propor melhorias para aproveitamento da matéria-prima e sugerir soluções
-para descarte de resíduos
-|Sprint 3| entregar guia de uso do sistema operacional e suportar a implementação
-do sistema computacional no cliente.
+|Sprint 1| realizar análise do desafio proposto e desenvolver um sistema computacional web.
+|Sprint 2| Sprint 2: propor melhorias para aproveitamento da matéria-prima e sugerir soluções para descarte de resíduos
+|Sprint 3| entregar guia de uso do sistema operacional e suportar a implementação do sistema computacional no cliente.
 
 ### Tecnologias Específicas/Apoio 
 Até o momento.
@@ -113,24 +102,32 @@ Ao clicar você será redirecionado a matriz de responsabilidade detalhada desse
 
 
 
-## Backlog do produto
-
-|Requisitos Funcionais|Requisitos Não Funcionais|
-|-|-|
-| descrição1 | descrição2 |
-| descrição3 |
-
-
-
 ## Sprint 1 - Concepção/Apresentação do Projeto
-- 
+O estudo de caso foi realizado pela equipe, onde foram verificadas dificuldades na
+padronização do corte de matéria-prima. Dessa forma, a equipe optou por explorar
+soluções na padronização do processo de corte de mantas por meio de um sistema web que
+padroniza e simplifica a execução dessa atividade.
       
 
 ## Sprint 2 - Desenvolvimento do Projeto
-- 
+Por meio desses métodos, foi possível identificar as causas do desafio, - como a
+ausência de instrução de trabalho, falta de diversidade de fornecedores, dificuldades na
+gestão do estoque – definir o objetivo, ações – como o desenvolvimento do software - e a
+meta do projeto. Assim sendo, a análise da problemática pelo método A3 proporcionou o
+envolvimento da equipe e entendimento da problemática, ao invés de lidar com o desafio
+de forma superficial, foi possível ter uma visão clara, objetiva e coerente .Para aproveitar a matéria-prima durante o corte, um código em JavaScript, que é
+uma linguagem de programação usada para fazer páginas interativas, foi desenvolvido. A
+estrutura do conteúdo da página web foi desenvolvida em HTML e CSS que descreveram
+toda a aparência/apresentação do sistema.
       
 ## Sprint 3 - Implementação
-- 
+- Por meio do sistema web e da importação das configurações dos cortes de manta
+foi possível realizar uma análise onde foi identificado que os cortes com maior demanda
+aproveitam mais de 80% da bobina. Logo, é interessante para a empresa avaliar a
+utilização da bobina completa na realização dos cortes mais demandados e armazenagem
+desses PN em estoque ao invés de armazenar as sobras da bobina de cada pedido, visto
+que, segundo os dados fornecidos, esses cortes tem alta demanda, logo, um bom giro de
+estoque.
 
 # Competências desenvolvidas
 Além do próprio trabalho em equipe, a divisão de tarefas nos traz autonomia para conclusão e comprometimento para entrega. Temos o Trello ferramenta nova para alguns, que nos serve de apoio diário para atribuição das tarefas.
