@@ -14,13 +14,13 @@
 * [Autores](#autores)
 
 # Projeto (API) 
-Esse projeto é uma parceria da Faculdade de Tecnologia de São José dos Campos – Professor Jessen Vidal com a empresa XXX a fim de desenvolver as habilidades dos alunos da graduação na entrega de produtos com valor tangível por meio dos métodos ágeis.
+Esse projeto é uma parceria da Faculdade de Tecnologia de São José dos Campos – Professor Jessen Vidal com a empresa freudenberg a fim de desenvolver as habilidades dos alunos da graduação na entrega de produtos com valor tangível por meio dos métodos ágeis.
 
 Atualmente, com o avanço da tecnologia, a necessidade de respostas rápidas, alterações a todo momento e requisitos em constante evolução, fez com que as metodologias ágeis ganhem espaço no desenvolvimento dos projetos, pois, as abordagens tradicionais não atendem mais as atuais necessidades. Para essa parceria, foi escolhida a metodologia Scrum que tem foco no gerenciamento da equipe, organização de processos, execução de tarefas e etapas.
 
-Dessa forma, a metodologia Scrum será usada para superar os desafios enfrentados pela empresa que incluem dificuldades em XXXXXX. Dessa maneira, os alunos do Curso Superior Tecnólogo em Gestão da Produção Industrial tiveram a oportunidade de utilizar os conceitos aprendidos na graduação para implementar sistemas de melhoria para enfrentar os desafios propostos.
+Dessa forma, a metodologia Scrum será usada para superar os desafios enfrentados pela empresa que incluem dificuldades em  desperdicio de manta e tempo durante o porocesso de corte . Dessa maneira, os alunos do Curso Superior Tecnólogo em Gestão da Produção Industrial tiveram a oportunidade de utilizar os conceitos aprendidos na graduação para implementar sistemas de melhoria para enfrentar os desafios propostos.
 
-Assim sendo, foi realizada uma visita técnica a empresa XXXX pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando xxxxxxx. Portanto, o objetivo desse projeto é xxxxxxxxxxx.
+Assim sendo, foi realizada uma visita técnica a empresa freudenberg pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando solucionar o desperdicio de manta durante o processo de corte. Portanto, o objetivo desse projeto é minimizar o desperdicio de manta e tempo durante o porocesso.
 
 
 
