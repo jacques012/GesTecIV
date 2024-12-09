@@ -20,7 +20,7 @@ Atualmente, com o avanço da tecnologia, a necessidade de respostas rápidas, al
 
 Dessa forma, a metodologia Scrum será usada para superar os desafios enfrentados pela empresa que incluem dificuldades em  desperdicio de manta e tempo durante o porocesso de corte . Dessa maneira, os alunos do Curso Superior Tecnólogo em Gestão da Produção Industrial tiveram a oportunidade de utilizar os conceitos aprendidos na graduação para implementar sistemas de melhoria para enfrentar os desafios propostos.
 
-Assim sendo, foi realizada uma visita técnica a empresa freudenberg pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando solucionar o desperdicio de manta durante o processo de corte. Portanto, o objetivo desse projeto é minimizar o desperdicio de manta e tempo durante o porocesso.
+Assim sendo, foi realizada uma visita técnica a empresa freudenberg pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando solucionar o desperdicio de manta durante o processo de corte. Portanto, o objetivo desse projeto é minimizar o desperdicio de manta e tempo durante o processo.
 
 
 
@@ -166,7 +166,6 @@ Tecnologia/Metodologia | Classificação
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Ana Beatriz | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abeaalmeida/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AnaBeatrizBarbosa)|
 |Scrum Master| Bianca Carvalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Mariana Garcia | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gmarianam) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GMARIANAMARITNS)|
-|Team Member| Gustavo Jacques | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gmarianam) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GMARIANAMARITNS)|
+|Product Owner| Gustavo Jacques | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gmarianam) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GMARIANAMARITNS)|
